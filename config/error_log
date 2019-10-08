@@ -1,0 +1,184 @@
+[07-Oct-2019 02:42:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/app.php on line 15
+[07-Oct-2019 02:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/cache.php on line 18
+[07-Oct-2019 02:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18
+[07-Oct-2019 02:42:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/andy666/youtube.andy666.com.br/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/config/broadcasting.php on line 18

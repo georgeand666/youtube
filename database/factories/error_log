@@ -1,0 +1,60 @@
+[07-Oct-2019 02:42:26 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:26 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:26 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:26 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:27 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:27 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:27 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:41 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:41 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:42 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:43 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:43 UTC] PHP Notice:  Undefined variable: factory in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
+[07-Oct-2019 02:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/andy666/youtube.andy666.com.br/database/factories/ModelFactory.php on line 15
