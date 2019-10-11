@@ -82,9 +82,11 @@
 		
 		    // Number 13 is the "Enter" key on the keyboard
 		    if (event.keyCode === 13) {
-
+				
+			    // change mouse cursor
 		    	$("body").css("cursor", "wait");  
-
+		    	
+				
 		        var postForm = { //Fetch form data
 	        		_token			: "{{ csrf_token() }}",
 	                'TextSearch'	: $( "#TextSearch" ).val() //Store name fields value
@@ -99,8 +101,12 @@
 		                'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
 		            },
 		            success : function($response){
-
+						
+					    // change mouse cursor
 		            	$("body").css("cursor", "auto"); 
+						
+					    // Make the logo visible
+				    	$("#divYouTube").removeClass('flex-center');
 		            	
 			            $response = JSON.parse( $response );
 			            
@@ -110,6 +116,8 @@
 			            
 			            if($response['error'] == ''){
 				            $('#divReturn').show();
+
+				            $('#divReturn').html( '' );
 							
 				            $.each($response['video'], function($index, $value) {
 					            
@@ -141,21 +149,20 @@
 </head>
 
 <body>
-	<div class="flex-center position-ref full-height">
+	<div id="divYouTube" class="flex-center position-ref full-height">
 
 		<div class="content">
 			<div class="title m-b-md">
 				YouTube
-				
 			</div>
 				
-				<div class="links">
-					<input type="text" id="TextSearch">
-				</div>
-				
-				<div class="links" id="divReturn" style="display: none;">
-					return
-				</div>
+			<div class="links">
+				<input type="text" id="TextSearch">
+			</div>
+			
+			<div class="links" id="divReturn" style="display: none;">
+				return
+			</div>	
 
 		</div>
 	</div>
